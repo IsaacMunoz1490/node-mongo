@@ -51,3 +51,5 @@ MongoClient.connect(url, { useUnifiedTopology: true }).then(client => {
     })
     .catch(err => console.log(err));
 // had to reinstall mongodb twice before I was able to work with it.
+
+// Initialized git repo and moved to Node Callback Hell and Promises.
